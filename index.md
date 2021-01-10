@@ -1,5 +1,4 @@
 <h2 style="text-align: center;">PRIVACY POLICY FOR Status Saver and Status Downloader</h2> 
-<h1>Privacy Policy of GeeksEleven</h1>
 
 <p>Geeks Eleven built the Status Saver and Status Downloader app as an an free app. This SERVICE is provided by Geeks Eleven at no cost and is intended for use as is.</p>
 
